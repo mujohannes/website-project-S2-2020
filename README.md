@@ -7,7 +7,7 @@ Created as an example for Sorrento by the sea project
 ## Installation
 To install this project
 ```
-git clone https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet .
+git clone https://github.com/mujohannes/website-project-S2-2020 .
 ```
 
 
