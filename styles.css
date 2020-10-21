@@ -1,0 +1,24 @@
+:root {
+  --main-font: helvetica, calibri, sans-serif;
+  --nav-link: #4d1d18;
+  --nav-link-hover: #555555;
+  --main-heading: #87423c;
+  --main-heading-size: 36px;
+  --sub-heading: #4d1d18;
+  --sub-heading-size: 24px;
+  --line-height: 150%;
+  --content-link: #87423c;
+  --footer-link: #87423c;
+  /* theme colours */
+  --primary-color: #682721ff;
+  --light: #d3c4b1ff;
+  --primary-mid: #99706cff;
+  --secondary-color: #506d51ff;
+  --grey: #c6c8c4ff;
+}
+
+body {
+  font-family: var(--main-font);
+  background-color: var(--light);
+  margin: 0;
+}
