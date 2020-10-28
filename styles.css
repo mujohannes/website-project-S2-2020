@@ -53,6 +53,9 @@ body {
 .navigation a:hover {
   color: var(--nav-link-hover);
 }
+.navigation a.active {
+  font-weight: bold;
+}
 .footer {
   display: grid;
   grid-template-rows: auto auto;
