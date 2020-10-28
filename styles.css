@@ -17,8 +17,28 @@
   --grey: #c6c8c4ff;
 }
 
+html {
+  min-height: 100vh;
+}
+
 body {
   font-family: var(--main-font);
   background-color: var(--light);
   margin: 0;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+}
+.header {
+  display: grid;
+  grid-template-rows: auto auto;
+}
+.logo {
+  width: 350px;
+}
+.home-link {
+  justify-self: center;
+}
+.navigation {
+  justify-self: center;
 }
