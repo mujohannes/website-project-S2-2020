@@ -39,6 +39,15 @@ body {
 .home-link {
   justify-self: center;
 }
+#navbutton {
+  width: 52px;
+  height: 52px;
+  font-size: 28px;
+  color: var(--nav-link);
+  background-color: transparent;
+  border: 1px solid var(--nav-link);
+  display: none;
+}
 .navigation {
   justify-self: center;
   display: flex;
