@@ -16,7 +16,6 @@ function onLoad() {
       nav.classList.add('open')
     }
   })
-
 }
 // wait for document to load
 window.addEventListener('load', onLoad)
