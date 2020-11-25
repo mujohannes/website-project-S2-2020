@@ -180,3 +180,8 @@ img {
 #contact-form button {
   align-self: end;
 }
+
+/* about page */
+.about-apartment {
+  grid-column: span 3;
+}
