@@ -21,4 +21,20 @@
     max-height: 50vh;
   }
 
+  .content {
+    padding: 0 10px;
+  }
+
+  #video {
+    height: 300px;
+  }
+
+  .column {
+    grid-column: span 3;
+  }
+
+  .item {
+    grid-column: span 3;
+  }
+
 }
