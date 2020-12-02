@@ -17,5 +17,5 @@ function onLoad() {
     }
   })
 }
-// wait for document to load
+// wait for document to load 
 window.addEventListener('load', onLoad)
